@@ -1,0 +1,4 @@
+Hi {FULLNAME},<br/>
+ please find your password below
+ password:{PWD}
+  
